@@ -1,6 +1,6 @@
 # Apple II Card Slot Adapter
 
-[Board preview](board.png)
+![Board preview](board.png)
 
 
 This is a simple KiCad project to build an Apple II card slot riser.
