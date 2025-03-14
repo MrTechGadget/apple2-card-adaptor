@@ -1,14 +1,14 @@
-# Apple II Card Slot Riser
+# Apple II Card Slot Adapter
 
 ![Board preview](board.png)
 
 This is a simple KiCad project to build an Apple II card slot riser.
 
-It contains mounting points for straddle-mounting an edge connector, or using a right-angle connector.
+It contains flipped pin male edge connector for connection with a standard female to female 50 pin cable.
 
-It also contains a spot to mount a 50 pin header for connection to a logic analyzer or something else like a slot extender.
+Al the power lines are connected; +5, +12, -12, and -5. 
 
-Only the +5V power line is connected; +12, -12, and -5 are unconnected for safety. But adding them back would be trivial if you need them.
+Based on Renee Harke's Apple II Card Slot Riser that this is forked from.
 
 # License
 
