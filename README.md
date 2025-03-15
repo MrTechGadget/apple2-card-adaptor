@@ -5,7 +5,7 @@
 
 This is a simple KiCad project to build an Apple II card slot riser.
 
-It contains flipped pin male edge connector for connection with a standard female to female 50 pin cable.
+It contains flipped pin male edge connector for connection with a standard female to female IDC 50 pin cable. I purchased this one https://www.aliexpress.us/item/2251832849656546.html
 
 Al the power lines are connected; +5, +12, -12, and -5. 
 
